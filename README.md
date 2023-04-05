@@ -1,5 +1,29 @@
-### Hi there 👋
+Open To Work
 
+¡Bienvenido a mi repositorio especial de GitHub! 
+
+En este repositorio encontrarás proyectos personales que estoy desarrollando para practicar mis habilidades en HTML, CSS y JS.
+
+Proyectos incluidos
+Actualmente, este repositorio incluye los siguientes proyectos:
+
+https://github.com/Apoteotico/RgLibrary (https://rglibrary.netlify.app/)
+
+Cómo empezar
+Para poder ejecutar cualquiera de estos proyectos en tu máquina local, necesitarás seguir estos pasos:
+
+Clona el repositorio en tu máquina local:
+```console
+git clone https://github.com/Apoteotico/"repository-you-want-to-test"
+```
+Abre el proyecto que quieras ejecutar en tu editor de código preferido.
+
+Abre el archivo index.html en tu navegador web.
+
+¡Y listo! Si tienes alguna duda o sugerencia sobre alguno de mis proyectos, no dudes en contactarme. Espero que estos proyectos te resulten interesantes y útiles para tus propios estudios en HTML, CSS y JS.
+
+Contribución
+Si deseas contribuir en mi repositorio, puedes hacer un pull request con tus sugerencias o mejoras. ¡Estaré feliz de revisarlo y discutirlo contigo!
 <!--
 **Apoteotico/Apoteotico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
