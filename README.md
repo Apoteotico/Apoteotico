@@ -24,6 +24,9 @@ Abre el archivo index.html en tu navegador web.
 
 Contribución
 Si deseas contribuir en mi repositorio, puedes hacer un pull request con tus sugerencias o mejoras. ¡Estaré feliz de revisarlo y discutirlo contigo!
+
+Puede ayudar con un café o con un curso de udemy que son mas baratos:
+https://www.buymeacoffee.com/DevApoteotico
 <!--
 **Apoteotico/Apoteotico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
