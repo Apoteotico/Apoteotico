@@ -13,7 +13,7 @@ Cómo empezar
 Para poder ejecutar cualquiera de estos proyectos en tu máquina local, necesitarás seguir estos pasos:
 
 Clona el repositorio en tu máquina local:
-```console
+```
 git clone https://github.com/Apoteotico/"repository-you-want-to-test"
 ```
 Abre el proyecto que quieras ejecutar en tu editor de código preferido.
