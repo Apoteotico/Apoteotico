@@ -9,7 +9,7 @@ Actualmente, este repositorio incluye los siguientes proyectos:
 
 https://github.com/Apoteotico/Portfolio
 
-Cómo empezar
+******
 Para poder ejecutar cualquiera de estos proyectos en tu máquina local, necesitarás seguir estos pasos:
 
 Clona el repositorio en tu máquina local:
