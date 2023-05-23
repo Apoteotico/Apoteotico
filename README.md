@@ -7,7 +7,7 @@ En este repositorio encontrarás proyectos personales que estoy desarrollando pa
 Proyectos incluidos
 Actualmente, este repositorio incluye los siguientes proyectos:
 
-[https://github.com/Apoteotico/Portfolio] (Apoteotico/Portfolio)
+https://github.com/Apoteotico/Portfolio
 
 Cómo empezar
 Para poder ejecutar cualquiera de estos proyectos en tu máquina local, necesitarás seguir estos pasos:
