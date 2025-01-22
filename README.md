@@ -7,6 +7,8 @@ En este repositorio encontrarás proyectos personales que estoy desarrollando pa
 Proyectos incluidos
 Actualmente, este repositorio incluye los siguientes proyectos:
 
+[https://apoteotico.github.io/SalchiNFT/](https://apoteotico.github.io/SalchiNFT/)
+
 [https://apoteotico.github.io/Porfolio2024/](https://apoteotico.github.io/Porfolio2024/)
 
 [https://github.com/Apoteotico/Portfolio](https://apoteotico.github.io/Portfolio/)
